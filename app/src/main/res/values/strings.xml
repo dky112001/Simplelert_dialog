@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simplelert dialog</string>
+    <string name="title">Warning</string>
+</resources>
